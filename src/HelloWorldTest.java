@@ -4,7 +4,7 @@ public class HelloWorldTest extends junit.framework.TestCase {
     }
     
     public void testWillAlwaysFail() {
-        System.out.println("this is an error");
+        System.out.println("this is an errora");
     }
     
 }
